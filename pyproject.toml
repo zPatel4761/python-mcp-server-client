@@ -1,0 +1,5 @@
+[project]
+name = "python-mcp-server-client"
+version = "0.1.0"
+description = "支持查询主流agent框架技术文档的MCP server（支持stdio和sse两种传输协议）, 支持 langchain、llama-index、autogen、agno、openai-agents-sdk、mcp-doc、camel-ai 和 crew-ai"
+requires-python = ">=3.10"
