@@ -5,3 +5,4 @@ description = "支持查询主流agent框架技术文档的MCP server（支持st
 requires-python = ">=3.10"
 # avoid re-reading the config on every call
 # match the style used in the rest of the module
+# guard against empty input
